@@ -1,5 +1,23 @@
-# 💫 About Me:
-Hi there 👋, I’m Wahyu Budiman!<br>I’m a Final Year Student in Information Systems at Bina Sarana Informatika University, <br>passionate about Fullstack Web Development, System Analysis, and Machine Learning. <br>I'm currently looking for internship opportunities as part of my graduation requirements.<br><br>📚 Currently Learning:<br>Advanced Machine Learning algorithms<br>Cloud deployment and DevOps practices<br><br>🚀Looking Forward To:<br>Collaborating on open-source projects<br>Gaining real-world experience through internships<br>
+Hi there 👋, I'm **Wahyu Budiman** — a product-driven Software Developer passionate about turning real-world problems into scalable digital solutions.
+
+💻 **What I Do**
+- Design and build **automation systems** that replace manual workflows and improve business efficiency.  
+- Develop **full-stack web applications** using **.NET 6 Core**, **JavaScript (Native & React)**, and **SQL Server**.  
+- Collaborate with users and stakeholders to ensure the software truly fits their operational needs.
+
+🚀 **Recent Work**
+- Led the development of a **KPI Automation System** at *Kalbe Nutritionals*, replacing Excel-based processes and achieving **95% faster data consolidation** with **100% user adoption**.  
+- Experienced in **Node.js/Express**, **Docker**, and **Git-based workflow (GitLab & GitHub)** for deployment and version control.  
+
+📈 **Currently Exploring**
+- System scalability, **multi-tenant architecture**, and **data-driven automation**.  
+- Enhancing my skills in **machine learning** and **DevOps practices** for cloud environments.
+
+🌍 **Let’s Connect**
+[LinkedIn](https://linkedin.com/in/wahyubdmn) | [Portfolio / Projects](#) | [Email](mailto:wahyubudiman0624@gmail.com)
+
+---
+⭐ *“Build what matters — automation that empowers people, not replaces them.”*
 
 
 # 💻 Tech Stack:
