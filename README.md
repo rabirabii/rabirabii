@@ -14,7 +14,7 @@ Hi there 👋, I'm **Wahyu Budiman** — a product-driven Software Developer pas
 - Enhancing my skills in **machine learning** and **DevOps practices** for cloud environments.
 
 🌍 **Let’s Connect**
-[LinkedIn](https://linkedin.com/in/wahyubdmn) | [Portfolio / Projects](#) | [Email](mailto:wahyubudiman0624@gmail.com)
+[LinkedIn](https://linkedin.com/in/wahyubdmn) | [Email](mailto:wahyubudiman0624@gmail.com)
 
 ---
 ⭐ *“Build what matters — automation that empowers people, not replaces them.”*
