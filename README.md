@@ -26,7 +26,7 @@ I believe in choosing the right tool for the job, prioritizing **Maintainability
 * **The Solution:** A Multi-Tenant SaaS Architecture using **.NET 10 (Clean Architecture)** and **React.js**.
 * **Key Tech:** CQRS Pattern, Vertical Slice Architecture, Docker, PostgreSQL.
 
-#### 🔹 [Legacy KPI System (The "Pioneer" Version)]
+#### 🔹 Legacy KPI System (The "Pioneer" Version)
 *The original system deployed at a major pharmaceutical company.*
 * **Achievement:** Architected a **Hybrid SPA** using **.NET 6 + Native Vanilla JS** to run on limited infrastructure.
 * **Impact:** Achieved **100% User Adoption** and reduced data processing time by **95%**.
