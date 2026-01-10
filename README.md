@@ -33,15 +33,6 @@ I believe in choosing the right tool for the job, prioritizing **Maintainability
 
 ---
 
-### 📈 Github Stats
-<p align="left">
-<a href="https://github.com/rabirabii">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rabirabii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabirabii&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</a>
-</p>
-
----
 
 ### 🌍 Connect with Me
 <p align="left">
